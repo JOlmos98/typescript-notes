@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "322a0a9fc3da69d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "515a7cbb8e52c4a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80d14a788e87aa9f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "e89ca3d66d760eef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APUNTES TypeScript OpenWebinars.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3d454c77fdabdae9",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0d128e558f5ad53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "472cd6dd9d83192c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7b25a4b0132ee508",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b4e315583119286c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "144dde183ddc0c44",
+    "type": "split",
+    "children": [
+      {
+        "id": "75212c58897dc844",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce76585b81c75d0b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "APUNTES TypeScript OpenWebinars.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "495c442ed37b9558",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "APUNTES TypeScript OpenWebinars.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f89284a81940be84",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "13e42d581c945d79",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "APUNTES TypeScript OpenWebinars.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e89ca3d66d760eef",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "APUNTES TypeScript OpenWebinars.md",
+    "create a link.md"
+  ]
+}
