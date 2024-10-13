@@ -99,4 +99,3 @@ const man1:personNE={
 }
 
 //OR (|): Ver arriba. Un & obliga a implementar tdos los atributos y métodos, el OR obliga a implementar AL MENOS, uno tipo interfaz completo.
-

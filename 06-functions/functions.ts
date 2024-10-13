@@ -30,3 +30,4 @@ let combineValuesTrue:(a:number, b:number)=>number;
 //Esto validará que el valor recibido sea una función que reciba dos parámetros NUMBER y devuelva un NUMBER.
 
 //////////NEVER//////////
+//A partir de aquí, apuntes desarrollados en el README.
