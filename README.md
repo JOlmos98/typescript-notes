@@ -4,8 +4,15 @@ Aquí están mis apuntes del curso de OpenWebinars de TypeScript y algunos apunt
 
 # Indice
 
-
-Aquí definiremos el índice.
+- [Indice](#indice)
+    - [1. Tipos](#1-tipos)
+    - [2. Funciones](#2-funciones)
+    - [3. Clases y herencia](#3-clases-y-herencia)
+    - [4. Interfaces](#4-interfaces)
+    - [5. Option chaining y Nullable](#5-option-chaining-y-nullable)
+    - [6. Generics](#6-generics)
+    - [7. Castoing](#7-casting)
+    - [8. tsconfig.json](#8-tsconfigjson)
 
 > [!NOTE]
 > No hace falta compilar a JS, con el comando `node archivo.js` ejecutamos los archivos JS, pero, si instalamos ts-node, con el comando `ts-node archivo.ts` ejecutamos directamente el archivo TS sin necesidad de compilarlo a JS.
