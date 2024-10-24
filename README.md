@@ -9,7 +9,7 @@ Aquí están mis apuntes del curso de OpenWebinars de TypeScript y algunos apunt
     - [2. Funciones](#2-funciones)
     - [3. Clases y herencia](#3-clases-y-herencia)
     - [4. Interfaces](#4-interfaces)
-    - [5. Option chaining y Nullable](#5-option-chaining-y-nullable)
+    - [5. Option chaining y Nullable](#5-optional-chaining-y-nullable)
     - [6. Generics](#6-generics)
     - [7. Castoing](#7-casting)
     - [8. tsconfig.json](#8-tsconfigjson)
